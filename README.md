@@ -11,3 +11,7 @@ bearing_predictive_maintenance/
 ├── tests/
 │   └── test_model.py               # Unit tests for the data pipeline
 ├── requirements.txt                # Python package dependencies
+
+
+
+Train the model: Save this file inside the src/ folder. It supports both Remaining Useful Life (RUL) Regression and Bearing Health Classification, and exports the trained model as a .pkl file.
