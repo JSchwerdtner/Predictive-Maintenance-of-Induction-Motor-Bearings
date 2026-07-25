@@ -15,3 +15,5 @@ bearing_predictive_maintenance/
 
 
 Train the model: Save this file inside the src/ folder. It supports both Remaining Useful Life (RUL) Regression and Bearing Health Classification, and exports the trained model as a .pkl file.
+
+Start the app with the command: streamlit run src/app.py
